@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+My WEDE POE
 
 ## Student Information
 **Student number:** Your student number <br>
