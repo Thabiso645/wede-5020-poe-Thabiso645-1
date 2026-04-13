@@ -22,8 +22,25 @@ My WEDE POE
 
 
 ## Website Goals and Objectives
+•	The main goal of the website is to establish a strong online presence and improve customer accessibility. Additional goals include increasing website traffic, generating leads, promoting services and enhancing brand credibility.
 
-Pull this from your project proposal.
+•	Objectives:
+-	To enable online appointment bookings.
+-	To provide clear and detailed service information,
+-	To showcase a portfolio of hairstyles.
+-	To improve communication between the business and its clients.
+
+
+•	Key Performance Indicators(KPIs)
+
+             The success of the website will be measured using the following  KPI’s:
+
+-	Website traffic.
+-	Conversion rate(visitors to bookings).
+-	Bounce rate.
+-	Number of online bookings.
+-	Social media engagement.
+
 
 ## Timeline and Milestones
 
