@@ -2,7 +2,7 @@
 My WEDE POE
 
 ## Student Information
-**Student number:** Your student number <br>
+**Student number:** ST10514400 <br>
 **Student Name:** Your full name
 
 ## Project Overview
