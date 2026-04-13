@@ -3,7 +3,7 @@ My WEDE POE
 
 ## Student Information
 **Student number:** ST10514400 <br>
-**Student Name:** Your full name
+**Student Name:** Thabiso
 
 ## Project Overview
 
