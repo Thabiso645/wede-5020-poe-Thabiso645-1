@@ -6,7 +6,6 @@ My WEDE POE
 **Student Name:** Thabiso
 
 ## Project Overview
-Organisation Overview
 
 •	Organisation name
 -	Luxe Glow Hair Studio
@@ -17,6 +16,9 @@ Organisation Overview
 •	Mission and Vision Statement
 -	The mission of Luxe Glow Hair Studio is to provide professional , affordable, and convenient haircare services that enhance clients confidence and personal style.
 -	The vision of the salon is to become a leading home-based haircare brand in Pretoria, recognised for exceptional service quality, creativity and customer satisfaction.
+
+  •	Target Audience
+-	The primary target audience includes young adults aged 18-35, working professionals, students, and women seeking affordable and convenient haircare services within Pretoria and surrounding areas. Understanding the target audience is essential.
 
 
 ## Website Goals and Objectives
