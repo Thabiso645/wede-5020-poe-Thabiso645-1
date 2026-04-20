@@ -1,4 +1,4 @@
-# Project Title
+# Luxe Glow Hair Studio
 My WEDE POE
 
 ## Student Information
