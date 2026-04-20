@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookings</title>
+</head>
+<body>
+<header>
+    <font size="15">
+<p>Bookings</p> 
+    <img src="Logo.jpg.png" width="180" height="130"/>
+</font>
+    <nav>
+    
+  <font size="20">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="booking.html">Booking</a>
+    <a href="contact.html">Contact</a></font>
+</nav>
+</header>
+    
+<font size="10">
+<div class="container">
 
+    <form class="Booking-form" onsubmit="returnshowMessage()">
+        <h2>Book an Appointment</h2>
+
+        <input type="text" placeholder="Full Name and Surname" required>
+        <input type="email" placeholder="Email Address" required>
+        <input type="contact" placeholder="Phone Number" required>
+
+        <select required>
+            <option value="">Select the service you would like.</option>
+            <option>Braiding</option>
+            <option>Styling</option>
+            <option>Treatments</option>
+        </select>
+
+        <input type="date" required>
+        
+        <input type="time" required>
+        
+        <textarea placeholder="Additional notes(optional)"></textarea>
+
+        <button type="submit">Confirm Booking!</button>
+
+        <div class="success-message" id="successMsg">
+            
+        </div>
+    </form>
+</div>
+</font>
+<footer>
+    <p>&copy; 2026 Luxe Glow Hair Studio. All rights reserved</p>
+</footer>
+</body>
+</html>
