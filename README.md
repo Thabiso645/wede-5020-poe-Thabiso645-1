@@ -48,7 +48,7 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-![Website Sitemap](img/site.png) <br>
+![Website Sitemap](Wede/Website/site.png) <br>
 
 ## References
 
