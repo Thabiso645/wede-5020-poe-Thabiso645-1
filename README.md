@@ -73,4 +73,13 @@ Key Milestones
 
 ## References
 
-Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+•	Chaffey, D., 2022. Digital marketing: Strategy, implementation and practice. 8th ed. Harlow: Pearson.</br>
+
+•	Laudon, K.C. and Traver, C.G., 2021. E-commerce 2021: Business, technology, society. 16th ed. Harlow: Pearson.</br>
+
+•	Tuten, T.L. and Solomon, M.R., 2020. Social media marketing. 3rd ed. London: Sage.</br>
+
+•	Kingsnorth, S., 2022. Digital marketing strategy: An integrated approach to online marketing. 3rd ed. London: Kogan Page.</br>
+
+•	Hall, J., 2021. Online marketing for small businesses. London: Routledge.</br>
+
