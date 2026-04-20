@@ -47,11 +47,11 @@ My WEDE POE
 •	A project timeline ensures the successful development and delivery of the website.
 
 Phase	Activity	Duration
-•	Week 1	Research and planning.	•	1 Week
-•	Week 2	Wireframing and design.	•	1 Week
-•	Week 3-4	Website development.	•	 2 Weeks
-•	Week 5	Testing and revisions.	•	1 Week
-•	Week 6	Final deployment	•	 1 Week
+•	Week 1	Research and planning.	-1 Week
+•	Week 2	Wireframing and design.	-1 Week
+•	Week 3-4	Website development.	-2 Weeks
+•	Week 5	Testing and revisions.	-1 Week
+•	Week 6	Final deployment	      -1 Week
 
 
 Key Milestones
