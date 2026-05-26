@@ -12,12 +12,14 @@ This project follows Semantic Versioning.
 - Added html comments to the contact page.
 - Added html comments to the booking page.
 - Added html comments to the about page.
+- Added a styles.css file to the repository.
+  
 
 ### Changed
 - Changed the file type of git hub repository from web archive.
 
 ### Fixed
-- xyz
+- Linked the html pages to the styles.css file
 
 ## Semantic Versioning
 
