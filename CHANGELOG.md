@@ -6,10 +6,15 @@ This project follows Semantic Versioning.
 
 ## [1.0.0] 
 ### Added
-- xyz
+- Added html comments to the homepage.
+- Added html comments to the services page.
+- Added html comments to the gallery page.
+- Added html comments to the contact page.
+- Added html comments to the booking page.
+- Added html comments to the about page.
 
 ### Changed
-- xyz
+- Changed the file type of git hub repository from web archive.
 
 ### Fixed
 - xyz
